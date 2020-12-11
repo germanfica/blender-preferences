@@ -1188,7 +1188,6 @@ keyconfig_data = \
     ("ADD_CUT_CLOSED", {"type": 'LEFTMOUSE', "value": 'DOUBLE_CLICK', "any": True}, None),
     ("ADD_CUT", {"type": 'LEFTMOUSE', "value": 'ANY', "any": True}, None),
     ("CANCEL", {"type": 'RIGHTMOUSE', "value": 'PRESS', "any": True}, None),
-    ("CONFIRM", {"type": 'NUMPAD_ENTER', "value": 'PRESS', "any": True}, None),
     ("NEW_CUT", {"type": 'E', "value": 'PRESS'}, None),
     ("SNAP_MIDPOINTS_ON", {"type": 'LEFT_CTRL', "value": 'PRESS', "any": True}, None),
     ("SNAP_MIDPOINTS_OFF", {"type": 'LEFT_CTRL', "value": 'RELEASE', "any": True}, None),
@@ -1344,7 +1343,6 @@ keyconfig_data = \
   {"items":
    [("CANCEL", {"type": 'RIGHTMOUSE', "value": 'ANY', "any": True}, None),
     ("CANCEL", {"type": 'ESC', "value": 'PRESS', "any": True}, None),
-    ("CONFIRM", {"type": 'RET', "value": 'PRESS', "any": True}, None),
     ("CONFIRM", {"type": 'NUMPAD_ENTER', "value": 'PRESS', "any": True}, None),
     ("ACCELERATE", {"type": 'NUMPAD_PLUS', "value": 'PRESS', "any": True}, None),
     ("DECELERATE", {"type": 'NUMPAD_MINUS', "value": 'PRESS', "any": True}, None),
